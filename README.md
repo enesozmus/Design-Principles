@@ -12,5 +12,3 @@
 
 > - Tasarım prensipleri, yazılım uygulamalarının kalitesinin iyileştirilmesine yardımcı olan yönergelerdir.
 > - Tasarım prensipleri, düzgün bir şekilde ele alınmadığında kötü bir tasarıma yol açan ve yaygın olarak ortaya çıkan sorunlar için tercih edilen çözümlerdir.
-
-1. Loose Coupling Principle
