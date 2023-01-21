@@ -2,8 +2,6 @@
 
 > - [Gençay Yıldız](https://www.linkedin.com/in/gen%C3%A7ay-y%C4%B1ld%C4%B1z-a1453987/)'ın [Design Principles](https://www.youtube.com/playlist?list=PLQVXoXFVVtp2eAq33DVNxeoXLXj4VMYpT) serisini takip ederek ve ilgili açık kaynakları okuyarak OOP ve C# temelli Tasarım Prensiplerini öğrenme serüvenim...
 
-> - Tamamlanma Oranı: ?
-
 ## ⚙️ Prensip nedir?
 
 > - Her türlü tartışmanın dışında sayılan öncül, temel inanç, temel düşünce, temel davranış kuralı.
