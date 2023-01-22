@@ -23,3 +23,4 @@
 > - Interface Segregation Principle in C#
 > - Dependency Inversion Principle in C#
 > - Inversion of Control Principle in C#
+> - Dependency Injection Design Pattern in C#
